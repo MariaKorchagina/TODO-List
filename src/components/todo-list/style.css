@@ -1,0 +1,10 @@
+.todo-list .list-group-item {
+  padding: 10px;
+  background-color: #ebe6e6b9;
+}
+
+.todo-list-item {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}

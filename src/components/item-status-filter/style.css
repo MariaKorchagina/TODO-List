@@ -1,0 +1,9 @@
+.btn-color {
+    background-color: #746c68;
+    border: #746c68;
+    color: aliceblue;
+}
+
+.btn-color:hover {
+    background-color: #788f62;
+}
